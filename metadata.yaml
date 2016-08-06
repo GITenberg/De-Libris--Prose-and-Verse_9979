@@ -1,0 +1,38 @@
+_repo: De-Libris--Prose-and-Verse_9979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Greenaway, Kate, 1846-1901'
+- !lcsh 'Thomson, Hugh, 1860-1920'
+- GITenberg
+tableOfContents: 'Prologue -- On some books and their associations -- An epistle to
+  an editor -- Bramston''s "Man of taste" -- The passionate printer to his love --
+  M. Rouquet on the arts -- The friend of humanity and the rhymer -- The parent''s
+  assistant -- A pleasant invective against printing -- Two modern book illustrators:
+  I. Kate Greenaway -- A song of the Greenaway child -- Two modern book illustrators:
+  II. Mr. Hugh Thomson -- Horatian ode on the tercentenary of "Don Quixote" -- The
+  books of Samuel Rogers -- Pepys'' "Diary" -- A French critic on Bath -- A welcome
+  from the "Johnson club" -- Thackeray''s "Esmond" -- A Miltonic exercise -- Fresh
+  facts about Fielding -- The happy printer -- Cross readings--and Caleb Whitefoord
+  -- The last proof.'
+title: 'De Libris: Prose and Verse'
+url: http://www.gutenberg.org/ebooks/9979
